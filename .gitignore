@@ -43,7 +43,7 @@ flutter_app/ios/Flutter/Flutter.framework
 flutter_app/ios/Flutter/Flutter.podspec
 flutter_app/macos/Pods/
 flutter_app/*.log
-
+flutter_app
 # ── OS ───────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
